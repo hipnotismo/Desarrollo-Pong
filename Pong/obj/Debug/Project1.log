@@ -1,0 +1,32 @@
+﻿  Creditos.cpp
+  Game.cpp
+c:\users\martín\desktop\desarrollo-pong\pong\src\game.cpp(206): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\martín\desktop\desarrollo-pong\pong\src\game.cpp(208): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  Over.cpp
+  Pantallas.cpp
+  Source.cpp
+  Generando código...
+raylib.lib(core.obj) : warning LNK4099: no se encontró PDB 'raylib.pdb' con 'raylib.lib(core.obj)' o en 'C:\Users\Martín\Desktop\Desarrollo-Pong\Pong\bin\Debug\raylib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(shapes.obj) : warning LNK4099: no se encontró PDB 'raylib.pdb' con 'raylib.lib(shapes.obj)' o en 'C:\Users\Martín\Desktop\Desarrollo-Pong\Pong\bin\Debug\raylib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(text.obj) : warning LNK4099: no se encontró PDB 'raylib.pdb' con 'raylib.lib(text.obj)' o en 'C:\Users\Martín\Desktop\Desarrollo-Pong\Pong\bin\Debug\raylib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(textures.obj) : warning LNK4099: no se encontró PDB 'raylib.pdb' con 'raylib.lib(textures.obj)' o en 'C:\Users\Martín\Desktop\Desarrollo-Pong\Pong\bin\Debug\raylib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(utils.obj) : warning LNK4099: no se encontró PDB 'raylib.pdb' con 'raylib.lib(utils.obj)' o en 'C:\Users\Martín\Desktop\Desarrollo-Pong\Pong\bin\Debug\raylib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(context.obj) : warning LNK4099: no se encontró PDB 'glfw_objlib.pdb' con 'raylib.lib(context.obj)' o en 'C:\Users\Martín\Desktop\Desarrollo-Pong\Pong\bin\Debug\glfw_objlib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(init.obj) : warning LNK4099: no se encontró PDB 'glfw_objlib.pdb' con 'raylib.lib(init.obj)' o en 'C:\Users\Martín\Desktop\Desarrollo-Pong\Pong\bin\Debug\glfw_objlib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(input.obj) : warning LNK4099: no se encontró PDB 'glfw_objlib.pdb' con 'raylib.lib(input.obj)' o en 'C:\Users\Martín\Desktop\Desarrollo-Pong\Pong\bin\Debug\glfw_objlib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(monitor.obj) : warning LNK4099: no se encontró PDB 'glfw_objlib.pdb' con 'raylib.lib(monitor.obj)' o en 'C:\Users\Martín\Desktop\Desarrollo-Pong\Pong\bin\Debug\glfw_objlib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(vulkan.obj) : warning LNK4099: no se encontró PDB 'glfw_objlib.pdb' con 'raylib.lib(vulkan.obj)' o en 'C:\Users\Martín\Desktop\Desarrollo-Pong\Pong\bin\Debug\glfw_objlib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(window.obj) : warning LNK4099: no se encontró PDB 'glfw_objlib.pdb' con 'raylib.lib(window.obj)' o en 'C:\Users\Martín\Desktop\Desarrollo-Pong\Pong\bin\Debug\glfw_objlib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(win32_init.obj) : warning LNK4099: no se encontró PDB 'glfw_objlib.pdb' con 'raylib.lib(win32_init.obj)' o en 'C:\Users\Martín\Desktop\Desarrollo-Pong\Pong\bin\Debug\glfw_objlib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(win32_joystick.obj) : warning LNK4099: no se encontró PDB 'glfw_objlib.pdb' con 'raylib.lib(win32_joystick.obj)' o en 'C:\Users\Martín\Desktop\Desarrollo-Pong\Pong\bin\Debug\glfw_objlib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(win32_monitor.obj) : warning LNK4099: no se encontró PDB 'glfw_objlib.pdb' con 'raylib.lib(win32_monitor.obj)' o en 'C:\Users\Martín\Desktop\Desarrollo-Pong\Pong\bin\Debug\glfw_objlib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(win32_time.obj) : warning LNK4099: no se encontró PDB 'glfw_objlib.pdb' con 'raylib.lib(win32_time.obj)' o en 'C:\Users\Martín\Desktop\Desarrollo-Pong\Pong\bin\Debug\glfw_objlib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(win32_thread.obj) : warning LNK4099: no se encontró PDB 'glfw_objlib.pdb' con 'raylib.lib(win32_thread.obj)' o en 'C:\Users\Martín\Desktop\Desarrollo-Pong\Pong\bin\Debug\glfw_objlib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(win32_window.obj) : warning LNK4099: no se encontró PDB 'glfw_objlib.pdb' con 'raylib.lib(win32_window.obj)' o en 'C:\Users\Martín\Desktop\Desarrollo-Pong\Pong\bin\Debug\glfw_objlib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(wgl_context.obj) : warning LNK4099: no se encontró PDB 'glfw_objlib.pdb' con 'raylib.lib(wgl_context.obj)' o en 'C:\Users\Martín\Desktop\Desarrollo-Pong\Pong\bin\Debug\glfw_objlib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(egl_context.obj) : warning LNK4099: no se encontró PDB 'glfw_objlib.pdb' con 'raylib.lib(egl_context.obj)' o en 'C:\Users\Martín\Desktop\Desarrollo-Pong\Pong\bin\Debug\glfw_objlib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(osmesa_context.obj) : warning LNK4099: no se encontró PDB 'glfw_objlib.pdb' con 'raylib.lib(osmesa_context.obj)' o en 'C:\Users\Martín\Desktop\Desarrollo-Pong\Pong\bin\Debug\glfw_objlib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  Project1.vcxproj -> C:\Users\Martín\Desktop\Desarrollo-Pong\Pong\\bin\\Debug\Project1.exe
+  C:\Users\Martín\Desktop\Desarrollo-Pong\Pong\res\Ball_VS_Player.wav
+  C:\Users\Martín\Desktop\Desarrollo-Pong\Pong\res\Tema.wav
+  2 archivo(s) copiado(s)

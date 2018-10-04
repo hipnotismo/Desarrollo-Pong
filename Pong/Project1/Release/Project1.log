@@ -1,0 +1,24 @@
+﻿  Game.cpp
+Game.cpp(50): error C2065: 'pantalla': identificador no declarado
+Game.cpp(50): error C2050: la expresión switch no es de tipo integral
+Game.cpp(51): error C2065: 'titulo': identificador no declarado
+Game.cpp(51): error C2131: la expresión no se evaluó como una constante
+  Game.cpp(51): note: el error se debió a argumentos no constantes o una referencia a un símbolo no constante
+  Game.cpp(51): note: consulte el uso de 'titulo'
+Game.cpp(54): error C2065: 'tituloFin': identificador no declarado
+Game.cpp(56): error C2065: 'pantalla': identificador no declarado
+Game.cpp(56): error C2065: 'juego': identificador no declarado
+Game.cpp(60): error C2065: 'juego': identificador no declarado
+Game.cpp(60): error C2131: la expresión no se evaluó como una constante
+  Game.cpp(60): note: el error se debió a argumentos no constantes o una referencia a un símbolo no constante
+  Game.cpp(60): note: consulte el uso de 'juego'
+Game.cpp(51): error C2051: la expresión case no es una constante
+Game.cpp(60): error C2051: la expresión case no es una constante
+Game.cpp(64): warning C4060: la instrucción switch no contiene etiquetas 'case' ni 'default'
+Game.cpp(84): error C2065: 'framesCounter': identificador no declarado
+Game.cpp(85): error C2065: 'finishScreen': identificador no declarado
+Game.cpp(86): error C2065: 'tituloFin': identificador no declarado
+Game.cpp(88): error C2065: 'pantalla': identificador no declarado
+Game.cpp(88): error C2065: 'titulo': identificador no declarado
+Game.cpp(158): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  Source.cpp
